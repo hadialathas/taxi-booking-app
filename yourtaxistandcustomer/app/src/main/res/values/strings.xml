@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yourtaxistand</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_user">Enter username</string>
+    <string name="hint_pass">Enter password</string>
+    <string name="title_activity_sign_up">SignUp</string>
+
+    <string-array name="state_arrays">
+        <item value="Tamil Nadu">Tamil Nadu</item>
+        <item value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</item>
+        <item value="Andhra Pradesh">Andhra Pradesh</item>
+        <item value="Arunachal Pradesh">Arunachal Pradesh</item>
+        <item value="Assam">Assam</item>
+        <item value="Bihar">Bihar</item>
+        <item value="Chandigarh">Chandigarh</item>
+        <item value="Chhattisgarh">Chhattisgarh</item>
+        <item value="Dadra and Nagar Haveli">Dadra and Nagar Haveli</item>
+        <item value="Daman and Diu">Daman and Diu</item>
+        <item value="Delhi">Delhi</item>
+        <item value="Goa">Goa</item>
+        <item value="Gujarat">Gujarat</item>
+        <item value="Haryana">Haryana</item>
+        <item value="Himachal Pradesh">Himachal Pradesh</item>
+        <item value="Jammu and Kashmir">Jammu and Kashmir</item>
+        <item value="Jharkhand">Jharkhand</item>
+        <item value="Karnataka">Karnataka</item>
+        <item value="Kerala">Kerala</item>
+        <item value="Lakshadweep">Lakshadweep</item>
+        <item value="Madhya Pradesh">Madhya Pradesh</item>
+        <item value="Maharashtra">Maharashtra</item>
+        <item value="Manipur">Manipur</item>
+        <item value="Meghalaya">Meghalaya</item>
+        <item value="Mizoram">Mizoram</item>
+        <item value="Nagaland">Nagaland</item>
+        <item value="Orissa">Orissa</item>
+        <item value="Pondicherry">Pondicherry</item>
+        <item value="Punjab">Punjab</item>
+        <item value="Rajasthan">Rajasthan</item>
+        <item value="Sikkim">Sikkim</item>
+        <item value="Tripura">Tripura</item>
+        <item value="Uttaranchal">Uttaranchal</item>
+        <item value="Uttar Pradesh">Uttar Pradesh</item>
+        <item value="West Bengal">West Bengal</item>
+    </string-array>
+    <string-array name="city_arrays">
+        <item value="chennai">chennai</item>
+    </string-array>
+    <string-array name="trip_arrays">
+        <item value="localtrip">Local trip</item>
+        <item value="outstationtrip">Outstation trip</item>
+    </string-array>
+    <string-array name="vech_arrays">
+        <item value="selecttrip">select vehicle</item>
+        <item value="localtrip">SUV</item>
+        <item value="outstationtrip">Hatchback</item>
+        <item value="outstationtrip">Sedan</item>
+    </string-array>
+
+    <string name="title_activity_post_requirement">PostRequirement</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_credit">Credit</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Quick Booking</item>
+        <item>Post Requirement</item>
+        <item>History</item>
+        <item>Credits</item>
+        <item>Rate Card</item>
+        <item>Emergency contact</item>
+        <item>Refer friend</item>
+        <item>Logout</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/booking_icon_select</item>
+        <item>@drawable/requirment_icon_select</item>
+        <item>@drawable/history_icon_select</item>
+        <item>@drawable/credits_icon_select</item>
+        <item>@drawable/rate_card_icon_select</item>
+        <item>@drawable/contact_icon_select</item>
+        <item>@drawable/refer_friend_icon_select</item>
+        <item>@drawable/logout_icon_select</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_history_deail">HistoryDeail</string>
+
+</resources>
