@@ -627,7 +627,7 @@ public class PostRequirementFragment extends Fragment implements
 		@Override
 		protected String doInBackground(String... place) {
 			// For storing data from web service
-			String data = "";
+			String data = " ";
 
 			// Obtain browser key from https://code.google.com/apis/console
 			String key = "YOUR-API-KEY";
