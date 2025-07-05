@@ -626,7 +626,7 @@ public class QuickBooking extends Fragment implements OnClickListener {
 			String data = "";
 
 			// Obtain browser key from https://code.google.com/apis/console
-			String key = "key=AIzaSyDR67zUF-2_2kZqSfiZEvYunhYACMD2boM";
+			String key = "YOUR-API-KEY";
 
 			String input = "";
 
